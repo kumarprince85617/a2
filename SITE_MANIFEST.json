@@ -1,0 +1,209 @@
+{
+  "domain": "apricotvelvet",
+  "niche": "Artisanal Apricot Velvet & Botanical Fruit Gastronomy",
+  "design_concept": "Botanical Confiture Atelier & Warm French Sepia",
+  "archetype_id": "botanical_atelier",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "apricotvelvet_asset_1.jpg",
+      "size_kb": 63.52,
+      "md5": "26d752edafcb3c084ba4a556cc76bc14",
+      "description": "Artisanal glazed apricot tartlet garnished with fresh thyme and edible gold leaf",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "apricotvelvet_asset_2.jpg",
+      "size_kb": 118.07,
+      "md5": "aa880fe6c0b386b9ead7e0cb0f4c6ff5",
+      "description": "Golden roasted apricot halves arranged over almond frangipane pastry crust",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "apricotvelvet_asset_3.jpg",
+      "size_kb": 121.04,
+      "md5": "928dc113353c415eaff8760e80cd3909",
+      "description": "Master pastry chef rolling laminated puff pastry dough for apricot galettes",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "apricotvelvet_asset_4.jpg",
+      "size_kb": 82.66,
+      "md5": "43c39decf57c570fed8ee5bcbdb3ee66",
+      "description": "Pure copper preserving cauldron bubbling with fresh apricot confiture and fruit pectin",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "apricotvelvet_asset_5.jpg",
+      "size_kb": 44.43,
+      "md5": "b4fc7957151e5c1a7587b7f96707fb1e",
+      "description": "Sun-drenched heritage apricot orchard with ripe stone fruit hanging from branch canopy",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "apricotvelvet_asset_6.jpg",
+      "size_kb": 160.06,
+      "md5": "608f631e965a2c983dc80f50b2b4880c",
+      "description": "Botanical cross-section study of heirloom Blenheim and Malatya apricots",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "apricotvelvet_asset_7.jpg",
+      "size_kb": 152.29,
+      "md5": "c4dc48086223a2be108787d59268d4fb",
+      "description": "Artisanal dessert banquet featuring apricot tarts, compotes, and glazed confections",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "apricotvelvet_asset_8.jpg",
+      "size_kb": 272.66,
+      "md5": "a6baf4ff474fd9ea026d5e45b059ca4d",
+      "description": "Simmered spiced apricot compote reduction seasoned with star anise and vanilla bean",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "apricotvelvet_asset_9.jpg",
+      "size_kb": 176.44,
+      "md5": "ec4e37b3e333add7df5cfef92c6856f3",
+      "description": "Sun-drying apricot halves across traditional wooden drying trays in high-altitude orchards",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "apricotvelvet_asset_10.jpg",
+      "size_kb": 313.48,
+      "md5": "83ad0266a2aa96be989ea6325526154e",
+      "description": "Gourmet culinary presentation pairing roasted apricots with aged artisanal cheeses",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "apricotvelvet_asset_11.jpg",
+      "size_kb": 129.32,
+      "md5": "2050508b69b065ed0cdf46b5ababf25e",
+      "description": "Fine dining dessert course showcasing chilled apricot souffle glace and caramelized nectar",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "apricotvelvet_asset_12.jpg",
+      "size_kb": 123.11,
+      "md5": "129d4af39affc5019693fbadc867037e",
+      "description": "Silky hand-churned apricot sorbet infused with wild meadow honey and lime zest",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "apricotvelvet_asset_13.jpg",
+      "size_kb": 170.45,
+      "md5": "9bed14c5856cc63d61c5a254861c3662",
+      "description": "Tableside copper pan caramelization of fresh apricot slices in spiced sugar glaze",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "apricotvelvet_asset_14.jpg",
+      "size_kb": 131.31,
+      "md5": "969b6ec3386f21126f52a37a8c8a85de",
+      "description": "Delicate apricot petit fours glazed with clear fruit gelee on porcelain pedestal",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "apricotvelvet_asset_15.jpg",
+      "size_kb": 164.67,
+      "md5": "e7686271cac0bb130de69f163a51d518",
+      "description": "Roasted sweet apricot kernels caramelized in organic wildflower honey and sea salt",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "apricotvelvet_asset_16.jpg",
+      "size_kb": 91.49,
+      "md5": "57f6a008350dfa4aad789ac96375a3cb",
+      "description": "Master orchardist hand-inspecting ripened stone fruits during sunrise harvest",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "apricotvelvet_asset_17.jpg",
+      "size_kb": 124.02,
+      "md5": "686f8f057405a8af919d005e700c98ab",
+      "description": "Chilled freshly pressed apricot nectar with botanical herbal garnishes",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "apricotvelvet_asset_18.jpg",
+      "size_kb": 190.96,
+      "md5": "f4b8b93704c881548ea6392e2d99975e",
+      "description": "Silky smooth apricot puree reduction simmered to perfect 65-Brix glaze consistency",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "apricotvelvet_asset_19.jpg",
+      "size_kb": 178.65,
+      "md5": "8165073c0e3561c641f74f305cc3268b",
+      "description": "Lush orchard canopy bathed in golden afternoon sunlight during peak fruit season",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "apricotvelvet_asset_20.jpg",
+      "size_kb": 297.9,
+      "md5": "3b290c398882f3e1ae04bdd3e1f9c49e",
+      "description": "Contemporary pastry plating featuring apricot coulis drops, edible florals, and tuile",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "190 S LaSalle Street, Suite 2800, Chicago, IL 60603, United States",
+    "telephone": "+1-877-667-7705",
+    "sitemap": "https://apricotvelvet.com/sitemap.xml",
+    "robots": "https://apricotvelvet.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT",
+  "institutional_address": "190 S LaSalle Street, Suite 2800, Chicago, IL 60603, United States",
+  "institutional_phone": "+1-877-667-7705"
+}
